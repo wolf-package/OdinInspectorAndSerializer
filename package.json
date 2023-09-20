@@ -1,0 +1,16 @@
+{
+  "name": "com.wolf.package.odin",
+  "displayName": "OdinInspectorAndSerializer",
+  "description": "Odin Inspector And Serializer for Unity",
+  "version": "3.1.2",
+  "unity": "2021.3",
+  "category": "wolfpackage",
+  "keywords": [
+    "Odin",
+    "Inspector",
+    "Serializer",
+    "OdinInspectorAndSerializer",
+    "Unity"
+  ],
+  "dependencies": {}
+}
